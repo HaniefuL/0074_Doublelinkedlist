@@ -8,4 +8,7 @@ struct Node
     string name;
     Node *next;
     Node *prev;
-}
+};
+
+Node *START = NULL;
+
